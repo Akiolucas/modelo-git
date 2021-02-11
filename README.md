@@ -1,3 +1,3 @@
 Teste de repositório!.
 
-Adicionando pastas no repositório.
+Adicionando pastas no repositório.(atualizado)
